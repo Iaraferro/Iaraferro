@@ -5,8 +5,21 @@
 🌱 Atualmente aprendendo JavaScript, Banco de Dados e Java  
 
 ## Projetos Recentes
-- [Meu Carrinho de Compras em Java](link_do_repositório)
-- [Site "Garden of Words"](https://github.com/Iaraferro/garden-of-words)
 
-🌟 Estou aberta a novas oportunidades e colaborações!
+- [Site "Garden of Words"](https://github.com/Iaraferro/garden-of-words)
+  
+## Colaboração
+
+Este projeto foi desenvolvido em parceria com [Igor Valoar](https://github.com/higorvaluar), durante nossa aula de front-end. Foi uma colaboração onde trabalhamos juntos nas funcionalidades e design do site.
+
+O código fonte do projeto pode ser acessado no repositório do [Igor Valoar](https://github.com/higorvaluar/isa_site) 
+
+## Contatos
+
+- *E-mail*: [iamartinsferro7@gmail.com]
+- *GitHub*: [@Iaraferro](https://github.com/Iaraferro)
+- 
+Se você deseja colaborar em algum projeto ou tiver alguma sugestão, fique à vontade para entrar em contato!
+
+
 
