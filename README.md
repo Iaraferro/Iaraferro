@@ -18,7 +18,7 @@ O código fonte do projeto pode ser acessado no repositório do [Igor Valoar](ht
 
 - *E-mail*: [iamartinsferro7@gmail.com]
 - *GitHub*: [@Iaraferro](https://github.com/Iaraferro)
-- 
+  
 Se você deseja colaborar em algum projeto ou tiver alguma sugestão, fique à vontade para entrar em contato!
 
 
