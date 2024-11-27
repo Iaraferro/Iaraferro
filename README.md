@@ -6,7 +6,7 @@
 
 ## Projetos Recentes
 - [Meu Carrinho de Compras em Java](link_do_repositório)
-- [Site "Garden of Words"](link_do_repositório)
+- [Site "Garden of Words"](https://github.com/Iaraferro/garden-of-words)
 
 🌟 Estou aberta a novas oportunidades e colaborações!
 
