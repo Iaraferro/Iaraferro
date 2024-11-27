@@ -1,12 +1,12 @@
-# Olá!👋 Eu sou Iara Martins Ferro
--  I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Olá! 👋 Eu sou Iara Martins Ferro
 
-<!---
-Iaraferro/Iaraferro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Estudante de Sistemas de Informação  
+💻 Apaixonada por Front-End e desenvolvimento web  
+🌱 Atualmente aprendendo JavaScript, Banco de Dados e Java  
+
+## Projetos Recentes
+- [Meu Carrinho de Compras em Java](link_do_repositório)
+- [Site "Garden of Words"](link_do_repositório)
+
+🌟 Estou aberta a novas oportunidades e colaborações!
+
