@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Iara!
 
-<!--
-**Iaraferro/Iaraferro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação 
+💻 Interessada em desenvolvimento fullstack
+🔧 Experiência com atendimento e suporte ao usuário
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+* HTML, CSS, JavaScript
+* Angular
+* Java (Quarkus)
+* Python
+
+### 🗄️ Banco de Dados
+
+* MySQL
+* SQL Server
+* PostgreSQL
+
+---
+
+## 📚 Atualmente estudando
+
+* Desenvolvimento Fullstack
+* APIs com Quarkus
+* Angular
+* Modelagem de Banco de Dados
+
+---
+
+## 🎯 Objetivo
+
+Busco oportunidade de estágio ou vaga na área de desenvolvimento fullstack, onde eu possa evoluir minhas habilidades práticas e contribuir com projetos reais.
+
+---
+
+## 📫 Contato
+
+🔗 [www.linkedin.com/in/iara-martins-ferro](http://www.linkedin.com/in/iara-martins-ferro)
+📧 [iaramartinsferro7@gmail.com](mailto:iaramartinsferro7@gmail.com)
