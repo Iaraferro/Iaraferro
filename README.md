@@ -17,7 +17,7 @@ Atualmente em estágio na área de suporte de TI e buscando uma oportunidade com
 
 | Projeto | Stack | Descrição |
 | :--- | :--- | :--- |
-| **[Vela API CRUD](https://github.com/Iaraferro/vela_api_crud)** | Java, Quarkus, PostgreSQL, JWT, Cloudinary | API REST para e-commerce de velas aromáticas. Fluxo completo: autenticação JWT, recuperação de senha por e-mail, upload de imagens (Cloudinary) e geração de QR Code para pagamentos. |
+| **[Vela API CRUD](https://github.com/Iaraferro/vela-api-crud)** | Java, Quarkus, PostgreSQL, JWT, Cloudinary | API REST para e-commerce de velas aromáticas. Fluxo completo: autenticação JWT, recuperação de senha por e-mail, upload de imagens (Cloudinary) e geração de QR Code para pagamentos. |
 | **[GestaoRestaurante](https://github.com/Iaraferro/GestaoRestaurante)** | C#, ASP.NET Core, EF Core, SQL Server | Sistema de gestão para restaurantes: cardápio, pedidos, reservas, mesas e relatórios financeiros. Modelagem com herança de classes (TPH) no EF Core. |
 
 ---
