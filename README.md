@@ -5,20 +5,13 @@
 
 ### Sobre mim
 
-Curso Sistemas de Informação na UNITINS e venho desenvolvendo meus conhecimentos em back-end por meio de estudos e projetos práticos, com foco em Java, Quarkus, APIs REST, PostgreSQL e Git.
+Curso Sistemas de Informação na UNITINS e venho desenvolvendo meus conhecimentos em back-end por meio de estudos e projetos práticos
 
-Gosto de pegar um problema e desenhar a arquitetura inteira por trás dele — modelagem de banco, autenticação, integração com serviços externos e organização em camadas que facilite manutenção. Meus projetos pessoais simulam fluxos completos de sistemas reais (e-commerce, gestão de restaurante), do cadastro ao pagamento.
+Gosto de pegar um problema e desenhar a arquitetura inteira por trás dele — modelagem de banco, autenticação, integração com serviços externos e organização em camadas que facilite manutenção.
 
-Atualmente em estágio na área de suporte de TI e buscando uma oportunidade como desenvolvedora back-end ou fullstack para aplicar isso em produção.
 
 ---
 
-### Projetos em destaque
-
-| Projeto | Stack | Descrição |
-| :--- | :--- | :--- |
-| **[Vela API CRUD](https://github.com/Iaraferro/vela-api-crud)** | Java, Quarkus, PostgreSQL, JWT, Cloudinary | API REST para e-commerce de velas aromáticas. Fluxo completo: autenticação JWT, recuperação de senha por e-mail, upload de imagens (Cloudinary) e geração de QR Code para pagamentos. |
-| **[GestaoRestaurante](https://github.com/Iaraferro/GestaoRestaurante)** | C#, ASP.NET Core, EF Core, SQL Server | Sistema de gestão para restaurantes: cardápio, pedidos, reservas, mesas e relatórios financeiros. Modelagem com herança de classes (TPH) no EF Core. |
 
 ---
 
@@ -48,11 +41,6 @@ Atualmente em estágio na área de suporte de TI e buscando uma oportunidade com
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 
----
-
-### Vamos conversar?
-
-Estou aberta a oportunidades de back-end e fullstack — se meu perfil tiver a ver com o que você procura, entra em contato!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/iara-martins-ferro)
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:iaramartinsferro7@gmail.com)
