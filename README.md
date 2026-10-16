@@ -1,16 +1,11 @@
 # Iara Martins Ferro
-**Desenvolvedora Back-end** | Estudante de Sistemas de Informação | UNITINS
 
----
+**Estudante de Sistemas de Informação | Suporte de TI e Desenvolvimento Back-end**
 
 ### Sobre mim
 
-Curso Sistemas de Informação na UNITINS e venho desenvolvendo meus conhecimentos em back-end por meio de estudos e projetos práticos
-
-Gosto de pegar um problema e desenhar a arquitetura inteira por trás dele — modelagem de banco, autenticação, integração com serviços externos e organização em camadas que facilite manutenção.
-
-
----
+Curso Sistemas de Informação na UNITINS e tenho experiência em suporte técnico e desenvolvimento de sistemas.
+No back-end, desenvolvo APIs REST com Java/Quarkus e C#/.NET, com foco em modelagem de banco de dados, autenticação e organização do código.
 
 
 ---
