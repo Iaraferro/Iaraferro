@@ -55,4 +55,4 @@ Nos meus projetos, busco aplicar boas práticas de programação, organização 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iaraferro&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iaraferro&layout=compact&theme=dark)ts.vercel.app/api/top-langs/?username=Iaraferro&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iaraferro&layout=compact&theme=dark)
